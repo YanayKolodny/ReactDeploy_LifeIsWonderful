@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactDeploy_LifeIsWonderful/static/css/main.073c9b0a.css",
+    "main.js": "/ReactDeploy_LifeIsWonderful/static/js/main.ba38ea52.js",
+    "index.html": "/ReactDeploy_LifeIsWonderful/index.html",
+    "main.073c9b0a.css.map": "/ReactDeploy_LifeIsWonderful/static/css/main.073c9b0a.css.map",
+    "main.ba38ea52.js.map": "/ReactDeploy_LifeIsWonderful/static/js/main.ba38ea52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ba38ea52.js"
+  ]
+}
